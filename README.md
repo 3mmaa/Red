@@ -1,4 +1,4 @@
-# heloo
+# hello
 **this is a test run**
 *for team red*
 > This is an ordered list on what to bring to class
@@ -10,3 +10,4 @@
 - food
 - laptop
 - charger 
+ 'print' 
