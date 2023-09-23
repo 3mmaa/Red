@@ -37,7 +37,7 @@ Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote.
 
-	### My Great Heading {#hello}
+	### My Great Heading {#<h3 id="custom-id">My Great Heading</h3>}
 
 ---
 
@@ -51,7 +51,7 @@ term
 - [ ] get strawberrys
 
 That is so funny! :joy:
-
+---
 I need to highlight these ==very important words==.
 
 H~2~O
