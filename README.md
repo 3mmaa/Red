@@ -25,18 +25,21 @@
 | Row 1    | Row 1    |
 | Row 2    | Row 2    |
 
-	```
+
 {
   "firstName": "Emma",
   "lastName": "Malik",
   "age": 14
 }
-```
+
+---
 Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote.
 
 	### My Great Heading {#hello}
+
+---
 
 term
 : definition
