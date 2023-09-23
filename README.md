@@ -16,7 +16,7 @@
 
  ## this is now where i will up some red images
 
- ![alt text](Color_red.png)
+ ![alt text](https://www.google.com/search?sca_esv=567769929&rlz=1C5CHFA_enUS1018US1018&q=red&tbm=isch&source=lnms&sa=X&ved=2ahUKEwj6g6zj4b-BAxVqIjQIHbzgAxoQ0pQJegQIDBAB&biw=856&bih=640&dpr=2.2#imgrc=8GW9Eda5iNsSFM)
 
  [where i got my examples](https://www.markdownguide.org/cheat-sheet/)
  ---
