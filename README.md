@@ -37,7 +37,7 @@ Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote.
 
-	### My Great Heading {#<h3 id="custom-id">My Great Heading</h3>}
+### My Great Heading {#<h3 id="custom-id">My Great Heading</h3>}
 
 ---
 
